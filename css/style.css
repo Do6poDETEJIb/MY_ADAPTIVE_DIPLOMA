@@ -726,11 +726,11 @@ body {
 /* офф_статьи_черты*/
 
 .img-article-mobile {
-  display: none;
+  display: block;
 }
 
 .img-article-tablet {
-  display: block;
+  display: none;
 }
 
 .block-article-info {
